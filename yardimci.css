@@ -1,0 +1,17 @@
+/* üzerine gelince çizgi */
+
+a {
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover {
+    text-decoration: underline;
+}
+/* ******************* */
+
+nav{
+    display: flex;
+    
+}
